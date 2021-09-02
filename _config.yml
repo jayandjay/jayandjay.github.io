@@ -69,7 +69,7 @@ features                                  :
 
   - title                                 : iCloud sync
     description                           : All your projects, builds and settings are synchronized with iCloud all over your devices
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : cloud
 
   # - title                                 : # New Feature Title
   #   description                           : # New Feature Description
