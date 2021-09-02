@@ -36,36 +36,36 @@ youtube_username                          :
 features                                  : 
 
   - title                                 : Favorites projects
-    description                           : Access your applications health and follow their builds at a glance
-    fontawesome_icon_name                 : magic
+    description                           : Access your applications/projects health and follow/restart their builds at a glance
+    fontawesome_icon_name                 : star
     
   - title                                 : Builds
     description                           : Monitor all builds status, restart or abord them quickly
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : cogs
 
   - title                                 : Steps
-    description                           : Follow all steps from a build live or afterwards directly parsed from Bitrise log
-    fontawesome_icon_name                 : play-circle
+    description                           : Follow all steps from a build (live or afterwards) directly parsed from Bitrise log
+    fontawesome_icon_name                 : shoe-prints
 
   - title                                 : Analytics
-    description                           : See builds statistics for success / failure / duration
-    fontawesome_icon_name                 : sync
+    description                           : See projects statistics for success, failure and duration
+    fontawesome_icon_name                 : analytics
 
   - title                                 : Notifications
-    description                           : Receive a push notification when a build is finished to avoir lost time wainting status to refresh
-    fontawesome_icon_name                 : adjust
+    description                           : Receive a push notification as soon as a build is finished to avoid loosing time waiting status to refresh
+    fontawesome_icon_name                 : bell
   
   - title                                 : Tests Report
-    description                           : Get a parsed test report summary for each build
-    fontawesome_icon_name                 : star
+    description                           : Get a parsed test report summary for your builds
+    fontawesome_icon_name                 : bug
 
   - title                                 : Workflows
-    description                           : Add any reccurrent workflow to your Dashboard to execute them on only one tap !
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    description                           : Add any reccurrent workflow to your Dashboard to execute them with only one tap !
+    fontawesome_icon_name                 : layer-group
 
   - title                                 : Easy install
-    description                           : Download and install your appz artifacts easily in just one tap
-    fontawesome_icon_name                 : link
+    description                           : Download and install your app artifacts easily with one tap only
+    fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : iCloud sync
     description                           : All your projects, builds and settings are synchronized with iCloud all over your devices
