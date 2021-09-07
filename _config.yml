@@ -71,6 +71,42 @@ features                                  :
     description                           : All your projects, builds and settings are synchronized with iCloud all over your devices
     fontawesome_icon_name                 : cloud
 
+  - title                                 : Live Update
+    description                           : Sambot auto-refresh when a workflow / build is started or finished without any manual action
+    fontawesome_icon_name                 : 
+
+  - title                                 : Project Weather
+    description                           : Quickly show your projects trends through a nice weather forecast representation
+    fontawesome_icon_name                 :
+
+  - title                                 : Easy to use and configure
+    description                           : Intuitive onboarding and easy access to most usefull feature
+    fontawesome_icon_name                 : 
+
+  - title                                 : Dark Mode support / Dynamic size support
+    description                           :
+    fontawesome_icon_name                 :
+
+  - title                                 : Siri and Shortcut support
+    description                           :
+    fontawesome_icon_name                 :
+
+  - title                                 : Error Analysis (not ready yet)
+    description                           : Helps you to quickly understand why a build has failed
+    fontawesome_icon_name                 :
+
+
+#- Favorites builds
+#	- Configure build for quick redo
+#- Easy App Install
+#	- One click app install
+#- Artifact Downloadable
+#- Projet customisation
+#- Fast / Responsive app / App is light(< 10mb) / small and efficient / crazy SDK ;D
+#- Search engine for builds(build number / project / workflow / branch) / Quickly find the build you are looking for
+
+
+
   # - title                                 : # New Feature Title
   #   description                           : # New Feature Description
   #   fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
