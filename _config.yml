@@ -63,13 +63,17 @@ features                                  :
     description                           : Add any reccurrent workflow to your Dashboard to execute them with only one tap !
     fontawesome_icon_name                 : layer-group
 
-  - title                                 : Easy install
-    description                           : Download and install your app artifacts easily with one tap only
+  - title                                 : Easy App install
+    description                           : Install your app and download your artifacts easily in one tap only
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : iCloud sync
     description                           : All your projects, builds and settings are synchronized with iCloud all over your devices
     fontawesome_icon_name                 : cloud
+
+  - title                                 : Easy to use
+    description                           : Quickly find the build you are looking for with powerfull search engine (build number / project / workflow / branch)
+    fontawesome_icon_name                 : 
 
   - title                                 : Live Update
     description                           : Sambot auto-refresh when a workflow / build is started or finished without any manual action
@@ -79,33 +83,42 @@ features                                  :
     description                           : Quickly show your projects trends through a nice weather forecast representation
     fontawesome_icon_name                 :
 
-  - title                                 : Easy to use and configure
-    description                           : Intuitive onboarding and easy access to most usefull feature
+  - title                                 : Easy to configure
+    description                           : Intuitive onboarding and easy access to most usefull features
     fontawesome_icon_name                 : 
 
-  - title                                 : Dark Mode support / Dynamic size support
+  - title                                 : Dark Mode support 
     description                           :
     fontawesome_icon_name                 :
 
-  - title                                 : Siri and Shortcut support
-    description                           :
+  - title                                 : Siri & Shortcut support
+    description                           : Launch your favorites builds with Siri / Shortcut
     fontawesome_icon_name                 :
 
-  - title                                 : Error Analysis (not ready yet)
+  - title                                 : Error Analysis (early beta yet)
     description                           : Helps you to quickly understand why a build has failed
     fontawesome_icon_name                 :
 
+  - title                                 : Performances
+    description                           : Fast, Responsive and light app (download size < 10 MB)
+    fontawesome_icon_name                 :
 
-#- Favorites builds
-#	- Configure build for quick redo
-#- Easy App Install
-#	- One click app install
-#- Artifact Downloadable
-#- Projet customisation
-#- Fast / Responsive app / App is light(< 10mb) / small and efficient / crazy SDK ;D
-#- Search engine for builds(build number / project / workflow / branch) / Quickly find the build you are looking for
+  - title                                 : Favorites builds
+    description                           : Configure build for quick redo
+    fontawesome_icon_name                 :
 
+  - title                                 : Bitrise live log themes
+    description                           : Live log from Bitrise is parsed and colorized with themes
+    fontawesome_icon_name                 :
 
+  - title                                 : Projet customisation
+    description                           : Customize your projects with beautifull pastel colors
+    fontawesome_icon_name                 :
+
+  - title                                 : Modern code
+    description                           : Sambot frontend code is 100% SwiftUI, under a TCA architecture, with iOS 15 support and its backend is written in Swift, everything is Testable...
+    fontawesome_icon_name                 : 
+		
 
   # - title                                 : # New Feature Title
   #   description                           : # New Feature Description
